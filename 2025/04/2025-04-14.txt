@@ -1,4 +1,5 @@
 ---
-mdate: 2025-04-14 16:51:31
+mdate: 2025-04-14 20:39:04
 ---
 争取一周内阅读书目: Electronic Structure 与 Neural Networks and Deep Learning
+开始进行量子自旋霍尔效应与 2 d 拓扑绝缘体的演讲
