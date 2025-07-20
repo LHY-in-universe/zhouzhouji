@@ -1,6 +1,11 @@
 ---
-mdate: 2025-07-09 14:09:30
+mdate: 2025-07-10 11:32:05
 ---
 VScode 远程服务器使用
-Dockerfile 使用
+Dockerfile 使用 与 rosetta 使用
 远程服务器 Git 配置 用户名 LiuHaoyang 邮箱 lhy200415@icloud.com
+zsh 与 ohmyzsh 配置
+#秘密分享
+同态传输
+#混淆电路 
+不经意传输 逻辑电路
