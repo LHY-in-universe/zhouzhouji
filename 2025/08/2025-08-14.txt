@@ -1,0 +1,8 @@
+---
+mdate: 2025-08-14 06:58:18
+---
+# MPC API
+将所有 test 写入 tests 文件 
+所有 api 写 readme 告知如何使用
+example 与 bench 写 readme 告知具体测试作用
+加入内存管理文件增加安全性
