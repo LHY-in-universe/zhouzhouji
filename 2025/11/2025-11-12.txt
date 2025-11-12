@@ -1,7 +1,8 @@
 ---
-mdate: 2025-11-12 14:22:06
+mdate: 2025-11-12 14:33:48
 ---
 FL-GLM
+EMA 
 #微调方法
 P-Tuning v2  LoRA 全量微调 Adapter IA3 QLoRA DoRA
 JAX 一个科学计算库和自动微分引擎 
