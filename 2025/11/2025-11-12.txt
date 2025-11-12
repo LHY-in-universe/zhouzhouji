@@ -1,7 +1,8 @@
 ---
-mdate: 2025-11-12 14:19:29
+mdate: 2025-11-12 14:22:06
 ---
 FL-GLM
 #微调方法
-P-Tuning v2  LoRA 
-JAX 一个科学计算库和自动微分引擎
+P-Tuning v2  LoRA 全量微调 Adapter IA3 QLoRA DoRA
+JAX 一个科学计算库和自动微分引擎 
+Flax 和 Haiku 是基于 JAX 构建的高级神经网络库
