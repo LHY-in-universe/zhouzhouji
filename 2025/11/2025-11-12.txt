@@ -1,8 +1,8 @@
 ---
-mdate: 2025-11-12 14:33:48
+mdate: 2025-11-12 14:34:05
 ---
 FL-GLM
-EMA 
+EMA Exponential Moving Average 模型指数平均
 #微调方法
 P-Tuning v2  LoRA 全量微调 Adapter IA3 QLoRA DoRA
 JAX 一个科学计算库和自动微分引擎 
