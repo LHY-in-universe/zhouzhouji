@@ -1,11 +1,14 @@
 ---
-mdate: 2025-11-12 14:52:49
+mdate: 2025-11-12 16:41:33
 ---
 FL-GLM
+SplitFed
 EMA Exponential Moving Average 模型指数平均
 # 微调范式
 SFT RLHF DPO RPO 
 #微调方法
 P-Tuning v2  LoRA 全量微调 Adapter IA3 QLoRA DoRA
+# Split learning 分割学习
+垂直分区数据、扩展原生版、多任务SL
 JAX 一个科学计算库和自动微分引擎 
 Flax 和 Haiku 是基于 JAX 构建的高级神经网络库
