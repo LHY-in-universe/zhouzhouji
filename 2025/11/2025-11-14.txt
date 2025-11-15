@@ -1,6 +1,8 @@
 ---
-mdate: 2025-11-14 15:41:27
+mdate: 2025-11-14 16:44:55
 ---
 ZeRO 微软的分布式训练优化引擎
 NVIDIA Triton Inference Server 
-ONNX 
+模型格式 torch、tf、onnx和trt
+推理引擎 trt ort
+RLDS 数据集格式
