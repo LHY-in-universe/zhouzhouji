@@ -1,4 +1,6 @@
 ---
-mdate: 2025-11-21 10:28:45
+mdate: 2025-11-21 12:05:24
 ---
 Adaptive Computation Time (ACT) 动态调整计算深度
+Mixture of Depths (MoD)
+Early Exiting (提前退出)
