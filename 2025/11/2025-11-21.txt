@@ -1,6 +1,21 @@
 ---
-mdate: 2025-11-21 12:05:24
+mdate: 2025-11-21 16:41:17
 ---
 Adaptive Computation Time (ACT) 动态调整计算深度
 Mixture of Depths (MoD)
 Early Exiting (提前退出)
+llama.cpp 进行模型部署与量化 但是无法做到三段式切割
+# 四种模型文件
+.pt .bin .safetensors .gguf
+SentencePiece基于BPE的分词器
+# 采样方法
+贪婪搜索（Greedy Search） 束搜索（Beam Search） 随机采样（Random Sampling） 温度采样（Temperature Sampling） Top-k 采样 Top-p 采样（核采样）
+离线批处理（offline batch processing）
+ Infinite-LLM 论文引入了一种新的分布式注意力算法 解决 KV 缓存问题
+# 4 种影响模型性能的瓶颈：
+计算能力受限、内存带宽受限、通信受限和开销受限
+添加残差连接缓解梯度消失和梯度爆炸的问题
+# 位置编码算法
+RoPE(Rotary Positional Embeddings )
+AliBi(Attention with Linear Biases)
+
