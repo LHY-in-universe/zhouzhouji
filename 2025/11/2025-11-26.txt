@@ -1,7 +1,8 @@
 ---
-mdate: 2025-11-26 17:33:42
+mdate: 2025-11-26 17:34:54
 ---
 #pipeline
 情感分析 零样本分类 文本生成
+architecture（架构）与 checkpoints（权重参数又称检查点）
 bixin 方案二开始更改
 九州量子 器件
