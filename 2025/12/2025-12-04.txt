@@ -1,8 +1,11 @@
 ---
-mdate: 2025-12-04 14:30:20
+mdate: 2025-12-04 17:25:17
 ---
 # 互斥锁（mutex）阻塞问题   
 环境变量导致 pytorch 导入错误  grpc 与 pytorch 都是多进程导入 
 anaconda 的底层库与线程管理问题 MKL 死锁
-
+# linux 网络问题
+sudo systemctl stop NetworkManager
+sudo rm /var/lib/NetworkManager/NetworkManager.state
+sudo systemctl start NetworkManager
 
