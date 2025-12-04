@@ -1,7 +1,8 @@
 ---
-mdate: 2025-12-04 13:46:39
+mdate: 2025-12-04 13:50:46
 ---
 # 互斥锁（mutex）阻塞问题   
-环境变量导致 pytorch 导入错误  grpc 与 pytorch 都是多进程导入
+环境变量导致 pytorch 导入错误  grpc 与 pytorch 都是多进程导入 python 环境问题
+
 
 
