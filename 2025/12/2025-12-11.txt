@@ -1,5 +1,5 @@
 ---
-mdate: 2025-12-11 20:12:20
+mdate: 2025-12-11 20:12:37
 ---
 # 加速优化技术研究预选
 静态KV缓存 + torch.compile FlashAttention-2 PyTorch SDPA 半精度加载 设备自动映射 
@@ -8,7 +8,7 @@ mdate: 2025-12-11 20:12:20
 模块上分为前端和后端，整体功能上有4个大的功能分别为前端SGLang语言、RadixAttention、fast constrained decoding和API Speculative Execution
 
 计划使用 WSL2 在 Linux 使用 CUDA
-可以先测试 win 
+可以先测试 win 使用 CUDA, 不成功再使用 Linux
 # 未来改进方向 
 SGLang 似乎不支持拆分模型加载
 KTransformer 加速客户端与服务端 CPU, SGLang 加速服务端
