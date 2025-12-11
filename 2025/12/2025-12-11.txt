@@ -1,5 +1,5 @@
 ---
-mdate: 2025-12-11 20:02:13
+mdate: 2025-12-11 20:02:27
 ---
 # 加速优化技术研究预选
 静态KV缓存 + torch.compile FlashAttention-2 PyTorch SDPA 半精度加载 设备自动映射 
@@ -9,5 +9,5 @@ mdate: 2025-12-11 20:02:13
 
 计划使用 WSL2 在 Linux 使用 CUDA
 # 未来改进方向
-SGLang 似乎不支持
+SGLang 似乎不支持拆分模型加载
 KTransformer 加速客户端与服务端 CPU, SGLang 加速服务端
