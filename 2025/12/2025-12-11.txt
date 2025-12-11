@@ -1,0 +1,6 @@
+---
+mdate: 2025-12-11 12:36:40
+---
+# 加速优化技术研究预选
+静态KV缓存 + torch.compile FlashAttention-2 PyTorch SDPA 半精度加载 设备自动映射 
+必要时使用 Triton
