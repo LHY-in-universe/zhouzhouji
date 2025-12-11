@@ -1,8 +1,11 @@
 ---
-mdate: 2025-12-11 15:40:48
+mdate: 2025-12-11 16:13:54
 ---
 # 加速优化技术研究预选
 静态KV缓存 + torch.compile FlashAttention-2 PyTorch SDPA 半精度加载 设备自动映射 
 必要时使用 Triton
 # SGLang的整体架构
 模块上分为前端和后端，整体功能上有4个大的功能分别为前端SGLang语言、RadixAttention、fast constrained decoding和API Speculative Execution
+
+# 未来改进方向
+K
