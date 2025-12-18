@@ -1,5 +1,6 @@
 ---
-mdate: 2025-12-18 12:06:27
+mdate: 2025-12-18 12:13:16
 ---
 WSL2 使用 NAT 网络模式
-win Alt+A 截图
+win Alt+A 微信截图 win+shiht+s 直接截图
+
