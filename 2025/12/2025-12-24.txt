@@ -1,8 +1,7 @@
 ---
-mdate: 2025-12-24 12:11:22
+mdate: 2025-12-24 12:28:15
 ---
 # WSL2 Linux 
-配置桌面 VcXsrv 
 oh my zsh  git  vim 配置 
 cursor 远程配置
 # SL 任务
