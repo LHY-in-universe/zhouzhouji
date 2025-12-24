@@ -1,4 +1,9 @@
 ---
-mdate: 2025-12-24 10:55:06
+mdate: 2025-12-24 11:22:21
 ---
-WSL2 Linux 配置桌面 VcXsrv
+# WSL2 Linux 
+配置桌面 VcXsrv 
+oh my zsh  git clash 配置 
+cursor 远程配置
+
+
