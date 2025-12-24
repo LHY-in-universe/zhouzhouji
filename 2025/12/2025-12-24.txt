@@ -1,8 +1,9 @@
 ---
-mdate: 2025-12-24 12:28:24
+mdate: 2025-12-24 14:48:20
 ---
 # WSL2 Linux 
 oh my zsh  git  vim 配置 
+f
 antigrivty 远程配置
 # SL 任务
 测试多种视觉层提取方法并比较结果 测试时间
