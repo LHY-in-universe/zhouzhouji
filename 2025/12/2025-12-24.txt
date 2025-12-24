@@ -1,9 +1,9 @@
 ---
-mdate: 2025-12-24 14:48:20
+mdate: 2025-12-24 14:48:41
 ---
 # WSL2 Linux 
 oh my zsh  git  vim 配置 
-f
+direnv 可以控制每一个文件夹的 conda 环境
 antigrivty 远程配置
 # SL 任务
 测试多种视觉层提取方法并比较结果 测试时间
