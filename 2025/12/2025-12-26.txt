@@ -1,0 +1,5 @@
+---
+mdate: 2025-12-26 15:57:47
+---
+# qian Linux 配置
+Clash Cursor
