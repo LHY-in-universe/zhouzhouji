@@ -1,5 +1,5 @@
 ---
-mdate: 2025-12-25 15:45:40
+mdate: 2025-12-26 16:02:51
 ---
 # 配置 地瓜机器人  Jetson 米尔板卡
-Clash conda
+Clash conda 
