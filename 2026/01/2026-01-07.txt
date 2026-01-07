@@ -1,7 +1,7 @@
 ---
-mdate: 2026-01-07 17:39:37
+mdate: 2026-01-07 17:39:46
 ---
 transformer 热力图显示结果储存
 deepstack 对于位置的感知非常重要, 不可以随意删除
 rsync 远程传送
-j e
+jetson 顺利启动
