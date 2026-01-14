@@ -1,5 +1,5 @@
 ---
-mdate: 2026-01-14 14:36:48
+mdate: 2026-01-14 18:10:13
 ---
 qwen3vl 照片传入时会自动进行调整
 
@@ -9,3 +9,4 @@ qwen3vl 照片传入时会自动进行调整
 
 Self-Attention 与 Cross-Attention
 
+qwen3vl 没有双塔结构, 无法做到图片文本对齐
