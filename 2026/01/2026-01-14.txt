@@ -1,5 +1,5 @@
 ---
-mdate: 2026-01-14 11:51:36
+mdate: 2026-01-14 14:36:48
 ---
 qwen3vl 照片传入时会自动进行调整
 
@@ -7,4 +7,5 @@ qwen3vl 照片传入时会自动进行调整
 第一步：5159x3255 → 1024x640（INTER_LINEAR，快速）
 第二步：1024x640 → 512x320（INTER_AREA，质量好）
 
+Self-Attention 与 Cross-Attention
 
