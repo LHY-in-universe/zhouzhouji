@@ -1,0 +1,5 @@
+---
+mdate: 2026-01-15 11:25:44
+---
+# appention map
+语义投影（Semantic Projection），也被称为 Linear Logit Lens 的跨模态变体
