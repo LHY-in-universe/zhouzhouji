@@ -1,5 +1,5 @@
 ---
-mdate: 2026-01-23 12:15:28
+mdate: 2026-01-23 15:35:03
 ---
 看 loss 曲线时, loss 可以是 log 形式, 横坐标不是
 
@@ -10,4 +10,6 @@ Loss 下降太慢	学习率太小 / 数据太复杂 尝试使用学习率调度�
 
 只看训练集的 Loss 是不够的，必须结合 Validation Loss（验证集损失）：
 正常收敛： Train Loss 和 Val Loss 都下降，最后都趋于平稳。
-过拟合（Overfitting）： Train Loss 继续下降，但 Val Loss 开始回升。此时虽然模型在训练集上“收敛”了，但泛化能力变差，应该停止训练（Early Stopping）。
+过拟合（Overfitting）： Train Loss 继续下降，但 Val Loss 开始回升。此时虽然模型在训练集上“收敛”了，但泛化能力变差，应该停止训练（Early Stopping）
+
+使用 ami 与 gemini cli
