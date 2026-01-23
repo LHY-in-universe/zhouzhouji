@@ -1,8 +1,8 @@
 ---
-mdate: 2026-01-22 15:42:22
+mdate: 2026-01-23 12:01:54
 ---
 开始 MLP 训练
 使用 wandb 记录
-loss 为 nan 
+loss 为 nan  原因为 vit 池化的操作有问题
 #模型初始化 
 Xavier 初始化 (又称 Glorot 初始化) He 初始化(又称 Kaiming 初始化)
