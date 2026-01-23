@@ -1,7 +1,7 @@
 ---
-mdate: 2026-01-15 15:07:47
+mdate: 2026-01-23 12:13:41
 ---
-# appention map
+appention map:
 语义投影（Semantic Projection），也被称为 Linear Logit Lens 的跨模态变体
 VAR-TVER矛盾 量化中层"假性视觉关注"现象
 注意力与梯度的融合 (The AG-CAM Formula)
