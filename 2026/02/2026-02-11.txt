@@ -1,5 +1,11 @@
 ---
-mdate: 2026-02-11 11:44:06
+mdate: 2026-02-11 23:01:23
 ---
-AutoDl haoyang@8d4aa75354e9a3eb
-Qw4Rt8zY0n
+AutoDl haoyang@8d4aa75354e9a3eb Qw4Rt8zY0n
+4060 ssh -p 8147 stl@43.136.86.87 123456
+1. API 在服务器进行部署
+2. YOLO 的核心架构: Backbone（骨干网络）： 负责提取特征。通常采用类似 ResNet 或专门设计的轻量化网络（如 CSPDarknet），将图像转换成多层特征图。Neck（颈部）： 负责特征融合。它把不同尺度的特征结合起来，这样既能看清“大象”，也能发现“蚂蚁”。常见的技术有 PANet 或 FPN。Head（头部）： 负责预测。在特征图的每个格子上“猜”这里有没有物体、是什么、在哪里。
+3. 配置使用 cc switch
+4. ViT-YOLO 或者是基于 Transformer 的单阶段检测器方案来输出标签与位置
+5. yolo 与 coco 数据集的格式差异
+6. Brain4Car 是客户提供的数据集, 但是不适合做检测训练, 推荐使用BDD100K 
