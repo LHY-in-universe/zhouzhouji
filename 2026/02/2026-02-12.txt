@@ -1,8 +1,9 @@
 ---
-mdate: 2026-02-12 21:15:21
+mdate: 2026-02-12 23:37:55
 ---
 5090 ssh -p 8547 stl@43.136.86.87 123456
 1. kaggle 数据集下载网站注册
 2. nohup 让服务器在后台运行
 3. OpendataLab 国内数据集下载
-4. 
+4. API-Key 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
+5. screen 服务器锁定终端桌面
