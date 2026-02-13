@@ -1,6 +1,8 @@
 ---
-mdate: 2026-02-13 22:10:03
+mdate: 2026-02-13 22:11:37
 ---
 YOLO 的架构设计
 1. 骨干网络的主要职能是从原始输入图像中提取具有高度语义信息的特征映射。 ResNet（残差网络） 跨阶段局部连接 (CSP)  C2f / C3k2 R-ELAN 
-2. PANet Path Aggregation Network，路径聚合网络: 
+2. PANet Path Aggregation Network，路径聚合网络:
+3.  DFL（Distribution Focal Loss，分布聚焦损失）
+4. 
