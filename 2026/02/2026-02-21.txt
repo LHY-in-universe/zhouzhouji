@@ -1,6 +1,7 @@
 ---
-mdate: 2026-02-21 17:31:56
+mdate: 2026-02-21 17:33:14
 ---
 1. 世界模型: 本质是构建一个生成式的空间-时间神经系统，该系统能够将其外部物理环境编码为紧凑的潜在状态，并捕获几何、语义及因果背景 。
 2. V-M-C: 
 3. 循环状态空间模型（Recurrent State-Space Models, RSSM: 
+4. 联合嵌入预测架构（Joint-Embedding Predictive Architecture, JEPA: 
