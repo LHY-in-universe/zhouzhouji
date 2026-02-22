@@ -1,7 +1,13 @@
 ---
-mdate: 2026-02-22 23:07:48
+mdate: 2026-02-22 23:09:49
 ---
 1. 多智能体系统 Multi-Agent System, MAS: 由多个具备特定功能的、能够相互通信并协作完成复杂目标的自主实体组成的集合。
 2. RLHF Reinforcement Learning from Human Feedback，人类反馈强化学习: 监督微调 (SFT) 训练奖励模型 (Reward Model) 强化学习优化 (PPO/DPO)
 3. RLAIF (AI 反馈强化学习) Reinforcement Learning from AI Feedback: 使用 AI 来训练奖励模型
-4. 
+4. PPO (Proximal Policy Optimization): PPO 是强化学习（RL）的传统方案。它的训练过程极其复杂，需要维护 4 个神经网络：
+Policy Model (演员)： 正在学习的模型，负责回答问题。
+Reference Model (参考)： 保持不动，防止演员学歪了（变得不像人话）。
+Reward Model (裁判)： 给回答打分的模型。
+Value Model (评论家)： 预测这个回答能得多少分，用来稳定训练。
+工作原理： 演员说话 → 裁判打分 → 评论家对比得分与预期 → 算法调整演员的参数。
+5. 
