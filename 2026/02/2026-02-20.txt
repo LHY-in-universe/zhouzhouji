@@ -1,5 +1,5 @@
 ---
-mdate: 2026-02-22 17:35:20
+mdate: 2026-02-22 17:36:24
 ---
 1. 汽车智能驾驶相关技术: 特斯拉FSD v13/v14 华为ADS 3.0 比亚迪的“天神之眼”（DiPilot）小鹏30B 参数 VLA 大模型 理想端到端 + VLM (快慢系统)
 2. 模型分为回归模型与分类模型, 有不同的输出架构与损失函数
@@ -9,3 +9,8 @@ mdate: 2026-02-22 17:35:20
 6. TensorRT-LLM：
 7. Ollama:
 8. LMDeploy: 
+9. Unsloth:
+10. LLaMA-Factory:
+11. MLX:
+12. LangGraph / CrewAI:
+13. 
