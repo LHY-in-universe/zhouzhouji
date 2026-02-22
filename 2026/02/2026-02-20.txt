@@ -1,5 +1,5 @@
 ---
-mdate: 2026-02-22 22:51:29
+mdate: 2026-02-22 22:55:45
 ---
 1. 汽车智能驾驶相关技术: 特斯拉FSD v13/v14 华为ADS 3.0 比亚迪的“天神之眼”（DiPilot）小鹏30B 参数 VLA 大模型 理想端到端 + VLM (快慢系统)
 2. 模型分为回归模型与分类模型, 有不同的输出架构与损失函数
@@ -10,9 +10,9 @@ mdate: 2026-02-22 22:51:29
 7. TensorRT-LLM：NVIDIA 发布, 将模型进行量化编译, 并优化推理运行
 8. Ollama: 快速部署大模型
 9. LMDeploy: 商汤科技（SenseTime）开源的一套大模型推理和部署工具箱
-10. Unsloth:
-11. LLaMA-Factory:
-12. MLX:
+10. Unsloth: 一个极其高效的微调库
+11. LLaMA-Factory: 一个集成了几乎所有微调技术的可视化训练框架
+12. MLX: 由 Apple 官方研究团队专门为 Apple Silicon (M1/M2/M3/M4) 芯片开发的机器学习框架
 13. LangGraph / CrewAI:
 14. dify: 由 Geo 工具团队开发，目前是全球最顶级的开源 LLM 应用开发平台 RAG 技术的使用
 15. coze: 字节跳动（ByteDance）推出的 Agent 开发平台
