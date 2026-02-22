@@ -1,12 +1,12 @@
 ---
-mdate: 2026-02-22 22:25:50
+mdate: 2026-02-22 22:29:03
 ---
 1. 汽车智能驾驶相关技术: 特斯拉FSD v13/v14 华为ADS 3.0 比亚迪的“天神之眼”（DiPilot）小鹏30B 参数 VLA 大模型 理想端到端 + VLM (快慢系统)
 2. 模型分为回归模型与分类模型, 有不同的输出架构与损失函数
 3. DeepSpeed: 解决显存溢出 (OOM) 多机通讯慢, 由微软（Microsoft）开源的一个深度学习优化库, 训练和推理都可以使用加速
 4. SGLong: 由 LMSYS Org 开发, 是一个 大模型推理加速框架。它的核心目标是：让大模型在处理复杂指令、多轮对话和长文档时，吐字速度更快、延迟更低、吞吐量更高。RadixAttention (前缀缓存技术) 结构化控制 (Structured Generation) 
 5. LangChain: AI 应用开发框架, 可以看作 agent 使用的底层逻辑框架
-6. vLLM: PagedAttention (分页注意力) 
+6. vLLM: PagedAttention (分页注意力) Continuous Batching (连续批处理) 
 7. TensorRT-LLM：
 8. Ollama:
 9. LMDeploy: 
