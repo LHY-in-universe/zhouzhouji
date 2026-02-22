@@ -1,5 +1,5 @@
 ---
-mdate: 2026-02-22 23:11:20
+mdate: 2026-02-22 23:12:30
 ---
 1. 多智能体系统 Multi-Agent System, MAS: 由多个具备特定功能的、能够相互通信并协作完成复杂目标的自主实体组成的集合。
 2. RLHF Reinforcement Learning from Human Feedback，人类反馈强化学习: 监督微调 (SFT) 训练奖励模型 (Reward Model) 强化学习优化 (PPO/DPO)
@@ -14,3 +14,4 @@ Value Model (评论家)： 预测这个回答能得多少分，用来稳定训�
 极简： 只需要 1 个正在练的模型和 1 个参考模型，显存减半。、
 稳定： 它不再是强化学习，而变成了分类问题，像跑微调一样稳定。
 1. GRPO (Group Relative Policy Optimization): deepseek 训练提出
+群组采样 (Group Sampling) 规则打分 (Reward Calculation) 相对优势计算 (Relative Advantage) 
