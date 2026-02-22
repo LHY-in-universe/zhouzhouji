@@ -1,5 +1,5 @@
 ---
-mdate: 2026-02-22 22:47:17
+mdate: 2026-02-22 22:51:29
 ---
 1. 汽车智能驾驶相关技术: 特斯拉FSD v13/v14 华为ADS 3.0 比亚迪的“天神之眼”（DiPilot）小鹏30B 参数 VLA 大模型 理想端到端 + VLM (快慢系统)
 2. 模型分为回归模型与分类模型, 有不同的输出架构与损失函数
@@ -8,8 +8,8 @@ mdate: 2026-02-22 22:47:17
 5. LangChain: AI 应用开发框架, 可以看作 agent 使用的底层逻辑框架
 6. vLLM: PagedAttention (分页注意力) Continuous Batching (连续批处理) 
 7. TensorRT-LLM：NVIDIA 发布, 将模型进行量化编译, 并优化推理运行
-8. Ollama:
-9. LMDeploy: 
+8. Ollama: 快速部署大模型
+9. LMDeploy: 商汤科技（SenseTime）开源的一套大模型推理和部署工具箱
 10. Unsloth:
 11. LLaMA-Factory:
 12. MLX:
