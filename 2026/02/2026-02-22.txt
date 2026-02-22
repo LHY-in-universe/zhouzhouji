@@ -1,5 +1,5 @@
 ---
-mdate: 2026-02-22 22:58:30
+mdate: 2026-02-22 23:04:30
 ---
 1. 多智能体系统 Multi-Agent System, MAS: 由多个具备特定功能的、能够相互通信并协作完成复杂目标的自主实体组成的集合。
-2. 
+2. RLHF Reinforcement Learning from Human Feedback，人类反馈强化学习: 
