@@ -1,7 +1,9 @@
 ---
-mdate: 2026-02-24 11:49:44
+mdate: 2026-02-24 11:51:08
 ---
 # yolo 
 1. Bi-Level Routing Attention (BRA): 粗粒度筛选： 先把图像分成区域（Region），判断哪些区域之间可能有关联。 细粒度计算： 只在有关系的区域之间计算注意力，过滤掉 80% 以上的无用背景计算。
 2. CSP (Cross Stage Partial) 跨阶段局部网络: CSP 的核心思想是“分流”：拆分： 把输入的特征图（Feature Map）按通道（Channel）分成两半。主干路： 其中一半通过复杂的残差块（Bottlenecks）进行深度卷积处理。支路（旁路）： 另一半直接“绕过去”，不经过任何复杂的计算。合并： 最后把两边的特征图再拼接（Concat）在一起。、
-3. C3TR: 
+3. C3TR: 在 YOLOv5 阶段引入的。它是在传统的 C3 模块（CSP 结构）基础上，将最后的几个 Bottleneck 卷积层换成了 Transformer Block。
+4. C2f: 输入分两路，一路直走。重点在另一路：它不仅让特征流过 Bottleneck，还会把每一个 Bottleneck 的输出都“拎出来”，最后全部拼接（Concat）在一起
+5. 
