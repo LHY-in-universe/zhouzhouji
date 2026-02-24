@@ -1,5 +1,5 @@
 ---
-mdate: 2026-02-24 12:17:44
+mdate: 2026-02-24 12:18:04
 ---
 # yolo 
 1. Bi-Level Routing Attention (BRA): 粗粒度筛选： 先把图像分成区域（Region），判断哪些区域之间可能有关联。 细粒度计算： 只在有关系的区域之间计算注意力，过滤掉 80% 以上的无用背景计算。
@@ -8,4 +8,4 @@ mdate: 2026-02-24 12:17:44
 4. C2f: YOLOv8输入分两路，一路直走。重点在另一路：它不仅让特征流过 Bottleneck，还会把每一个 Bottleneck 的输出都“拎出来”，最后全部拼接（Concat）在一起
 5. C2fPSA: YOLO v11 PSA (Pointwise Spatial Attention) 空间注意力 特征压缩： 将通道数压缩，减少计算压力。空间加权： 通过简单的卷积操作，计算出图片中哪些像素点（Pointwise）更重要。 多头并行： 借鉴了 MHSA 的“多头”思想，但只在空间维度上做文章。
 6. YOLO v12: Area Attention（区域注意力） R-ELAN（残差高效层聚合网络) FlashAttention 的引入
-7. YOLO26: 原生 NMS-Free 架构 (Dual-Assignment) Muon 优化器与 MuSGD Flash-Occult Attention (隐式注意力)
+7. YOLO26: 原生 NMS-Free 架构 (Dual-Assignment) Muon 优化器与 MuSGD Flash-Occult Attention (隐式注意力) 进度损失函数 (Progressive Loss) 多任务联合“蒸馏” (Unified Distillation)
